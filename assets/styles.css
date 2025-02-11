@@ -1,0 +1,28 @@
+body {
+    background-color: #F6F6EC;
+}
+
+#date_res {
+    margin-top: 20px;
+    font-size: 24px;
+}
+
+h1 {
+  background-color: #F6F6EC;
+  font-family: Arial, Verdana, sans-serif;
+  margin-top: 0px;
+  color: #8C8282;
+}
+
+h2 {
+  background-color: #F6F6EC;
+  font-family: Arial, Verdana, sans-serif;
+  color: #8C8282;
+  margin-top: 20px;
+}
+
+h3 {
+  background-color: #F6F6EC;
+  font-family: Arial, Verdana, sans-serif;
+  color: #8C8282;
+}
